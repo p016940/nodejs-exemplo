@@ -6,6 +6,7 @@ export default function Home() {
       <div>
         <h1>Teste</h1>
         <h2>Deploy para produção</h2>
+        <h3>Alteração</h3>
       </div>
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
